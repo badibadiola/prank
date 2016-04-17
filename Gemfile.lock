@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    auto_click (0.2.0)
+    ffi (1.9.10)
+    rumouse (0.0.6)
+      ffi (~> 1.9.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  auto_click
+  rumouse
+
+BUNDLED WITH
+   1.11.2
