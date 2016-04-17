@@ -13,4 +13,6 @@ cd prank/keyboard # you can optionally cd into prank/keymouse, prank/keyboard or
 sh run.sh
 ```
 
-also, if you'd like logs of what the scripts are doing, you can check out the files they generate (.keyboard.out and .mouse.out, usually in their folders)
+also, if you'd like logs of what the scripts are doing, you can check out the files they generate (`.keyboard.out` and `.mouse.out`, usually in their folders)
+
+as always, remember to stay yBtVVxhB5what the f1PjcprFgnvbeuck is going oJ88xJSYw8laOKqan with my computPE8qlho2C6lWurKrON
